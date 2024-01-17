@@ -7,9 +7,13 @@ Front-End Developer
 Experienced Frontend Developer specializing in creating visually appealing and responsive user interfaces. Proficient in HTML, CSS, and JavaScript, with expertise in frameworks like React.js. Committed to delivering pixel-perfect, cross-browser experiences and optimizing website performance. A collaborative team player with strong problem-solving skills, I bring creativity and a passion for innovation to elevate digital projects. Let's craft engaging user interfaces together.
 
 * 🌍  I'm based in India
+* 🖥️  See my portfolio at [Bittu Kumar](http://https://github.com/Bittu7870)
 * 🧠  I'm learning a React Native
 * 🤝  I'm open to collaborating on React Project
 * ⚡  I’m looking for help with ...
+
+<a href="https://www.github.com/Bittu7870" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Bittu7870?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
 
 ### Skills
 
@@ -21,8 +25,14 @@ Experienced Frontend Developer specializing in creating visually appealing and r
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Bittu7870/Myportfolio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bittu-kumar7870/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Bittu7870" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bittu-kumar7870/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
-<a href="https://github.com/Bittu7870/Myportfolio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu7870/Myportfolio&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Bittu7870"><img src="https://github-readme-stats.vercel.app/api?username=Bittu7870&show_icons=true&hide=stars,issues,contribs&title_color=ec4899&text_color=14b8a6&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Bittu7870's GitHub stats" /></a>
+
+<a href="http://www.github.com/Bittu7870"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bittu7870&stroke=14b8a6&background=000000&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
+<a href="https://github.com/Bittu7870" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu7870&langs_count=10&title_color=ec4899&text_color=14b8a6&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
