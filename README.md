@@ -34,6 +34,7 @@ src="https://img.shields.io/github/followers/Bittu7870?logo=github&style=for-the
 <img align="center" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="923" height="403">
 
 ### Badges
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <b>My GitHub Stats</b>
 
