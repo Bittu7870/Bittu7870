@@ -7,7 +7,7 @@ Front-End Developer
 Experienced Frontend Developer specializing in creating visually appealing and responsive user interfaces. Proficient in HTML, CSS, and JavaScript, with expertise in frameworks like React.js. Committed to delivering pixel-perfect, cross-browser experiences and optimizing website performance. A collaborative team player with strong problem-solving skills, I bring creativity and a passion for innovation to elevate digital projects. Let's craft engaging user interfaces together.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Bittu Kumar](http://https://github.com/Bittu7870)
+* 🖥️  See my portfolio at [Bittu Kumar](https://bittu-portfolio.vercel.app)
 * 🧠  I'm learning a React Native
 * 🤝  I'm open to collaborating on React Project
 * ⚡  I’m looking for help with ...
